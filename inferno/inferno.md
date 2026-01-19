@@ -13,7 +13,7 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/JosephAQM/CS/raw/main/inferno/t/ct_pos.png" /></td>
+    <td><img src="CSinferno/t/ct_pos.png" /></td>
     <td><img src="/JosephAQM/CS/raw/main/inferno/t/ct_aim.png" /></td>
   </tr>
   <tr>
