@@ -52,13 +52,12 @@
 	  <details>
         <summary><i>Zoom</i></summary>
         <img src="/anubis/t/a_connector_smoke_aim_zoom.png"/>
-        <br>Aim about 80% the way up the tall box edge.
       </details>
     </td>
   </tr>
   <tr>
     <td align="center"><i>Jam into ledge corner</i></td>
-    <td align="center"><i>Left Click Jump Throw</i></td>
+    <td align="center"><i>One Step Left Click Throw</i></td>
   </tr>
 </table>
 
@@ -155,6 +154,33 @@
   </tr>
   <tr>
     <td align="center"><i>Align with corner of bricks</i></td>
+    <td align="center"><i>Left Click Throw</i></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th colspan="2">🌟 B Site God Flash</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/b_site_flash_pos.png" />
+	  <details>
+        <summary><i>Zoom Out</i></summary>
+        <img src="/anubis/t/b_site_flash_pos_zoom_out.png"/>
+        <br> Stand beside pillar. Loose positioning.
+      </details>
+    </td>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/b_site_flash_aim.png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><i>Stand beside pillar</i></td>
     <td align="center"><i>Left Click Throw</i></td>
   </tr>
 </table>

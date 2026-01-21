@@ -76,7 +76,7 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2">B Site God Flash (Team safe until Oranges)</th>
+    <th colspan="2">🌟 B Site God Flash (Team safe until Oranges)</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
@@ -94,7 +94,7 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2">Top Banana HE from Barrels</th>
+    <th colspan="2">💥 Top Banana HE from Barrels</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
@@ -112,7 +112,7 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2">Apps God Flash</th>
+    <th colspan="2">🌟 Apps God Flash</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
