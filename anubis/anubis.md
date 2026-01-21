@@ -26,7 +26,8 @@
 			<summary>
 				<i>Zoom</i>
 			</summary>
-			<img src="/anubis/t/left_pillar_aim_zoom.png"/>Aim between middle 2 semi circles.
+			<img src="/anubis/t/left_pillar_aim_zoom.png"/>
+			Aim between middle 2 semi circles.
 		</details>
 	</td>
   </tr>
@@ -54,15 +55,48 @@
     <td><img src="/anubis/t/temple_smoke_aim.png" />
 		<details>
 			<summary>
-				<i>Zoom</i>
+				<i>Zoom In</i>
 			</summary>
-			<img src="/anubis/t/temple_smoke_aim_zoom.png"/>Aim at top left window corner.
+			<img src="/anubis/t/temple_smoke_aim_zoom.png"/>
+			Aim at top left window corner.
 		</details>
 	</td>
   </tr>
   <tr>
     <td align="center"><i>Align with corner of bricks</i></td>
     <td align="center"><i>Left Click Throw</i></td>
+  </tr>
+</table>
+
+## Mid
+
+<table>
+  <tr>
+    <th colspan="2">💨 Mid Smoke</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td><img src="/anubis/t/mid_smoke_pos.png" /><details>
+			<summary>
+				<i>Zoom Out</i>
+			</summary>
+			<img src="/anubis/t/mid_smoke_pos_zoom_out.png"/>
+		</details></td>
+    <td><img src="/anubis/t/mid_smoke_aim.png" /><details>
+			<summary>
+				<i>Zoom In</i>
+			</summary>
+			<img src="/anubis/t/mid_smoke_aim_zoom.png"/>
+			Aim at center of lamp thing.
+		</details></td>
+	</td>
+  </tr>
+  <tr>
+    <td align="center"><i>Align with center of pole</i></td>
+    <td align="center"><i>Left Click Jump Throw</i></td>
   </tr>
 </table>
 
