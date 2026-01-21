@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<table>
+<table style="table-layout: fixed; width: 600px; border-collapse: collapse;">
   <tr>
     <th colspan="2">💨 Temple Smoke</th>
   </tr>
@@ -46,14 +46,14 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td style="vertical-align: top; padding-top: 10px;">
+    <td style="width: 300px; vertical-align: top; padding-top: 10px;">
       <img src="/anubis/t/temple_smoke_pos.png" style="max-width: 100%;" />
       <details>
         <summary><i>Zoom Out</i></summary>
         <img src="/anubis/t/temple_smoke_pos_zoom_out.png" style="max-width: 100%;"/>
       </details>
     </td>
-    <td style="vertical-align: top; padding-top: 10px;">
+    <td style="width: 300px; vertical-align: top; padding-top: 10px;">
       <img src="/anubis/t/temple_smoke_aim.png" style="max-width: 100%;" />
       <details>
         <summary><i>Zoom In</i></summary>
