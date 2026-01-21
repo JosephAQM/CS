@@ -214,7 +214,7 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2">💨 Right Pillar Molly</th>
+    <th colspan="2">🔥 Right Pillar Molly</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
