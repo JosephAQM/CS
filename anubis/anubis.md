@@ -1,9 +1,3 @@
-<style>
-  td {
-    vertical-align: top;
-  }
-</style>
-
 # 🐪 Anubis
 <details>
 <summary>🔴 Terrorist Side</summary>
@@ -43,7 +37,7 @@
   </tr>
 </table>
 
-<table style="table-layout: fixed; width: 600px; border-collapse: collapse;">
+<table width="100%">
   <tr>
     <th colspan="2">💨 Temple Smoke</th>
   </tr>
@@ -52,18 +46,18 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td style="width: 300px; vertical-align: top; padding-top: 10px;">
-      <img src="/anubis/t/temple_smoke_pos.png" style="max-width: 100%;" />
+    <td valign="top" width="50%">
+      <img src="/anubis/t/temple_smoke_pos.png" />
       <details>
         <summary><i>Zoom Out</i></summary>
-        <img src="/anubis/t/temple_smoke_pos_zoom_out.png" style="max-width: 100%;"/>
+        <img src="/anubis/t/temple_smoke_pos_zoom_out.png" />
       </details>
     </td>
-    <td style="width: 300px; vertical-align: top; padding-top: 10px;">
-      <img src="/anubis/t/temple_smoke_aim.png" style="max-width: 100%;" />
+    <td valign="top" width="50%">
+      <img src="/anubis/t/temple_smoke_aim.png" />
       <details>
         <summary><i>Zoom In</i></summary>
-        <img src="/anubis/t/temple_smoke_aim_zoom.png" style="max-width: 100%;"/>
+        <img src="/anubis/t/temple_smoke_aim_zoom.png" />
         <br>Aim at top left window corner.
       </details>
     </td>
