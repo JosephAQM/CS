@@ -61,11 +61,65 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <th colspan="2">🌟 A Site God Flash</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/a_default_molly_pos.png" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/a_site_flash_aim.png" />
+	  <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/anubis/t/a_site_flash_aim_zoom.png"/>
+        <br>Aim at crack
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><i>Jam into corner</i></td>
+    <td align="center"><i>Left Click Jump Throw</i></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th colspan="2">🔥 Default Molly</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/a_default_molly_pos.png" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/a_default_molly_aim.png" />
+	  <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/anubis/t/a_default_molly_aim_zoom.png"/>
+        <br>Aim right of the top pot. Don't aim too close to pot.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><i>Jam into corner</i></td>
+    <td align="center"><i>Left Click Jump Throw</i></td>
+  </tr>
+</table>
+
 ## B Site
 
 <table width="100%">
   <tr>
-    <th colspan="2">💨 Left Pillar Smoke</th>
+    <th colspan="2">💨 Left Default Smoke</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
@@ -97,7 +151,7 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2">💨 Platform / Right Pillar Smoke</th>
+    <th colspan="2">💨 Platform Smoke</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
@@ -160,6 +214,38 @@
 
 <table width="100%">
   <tr>
+    <th colspan="2">💨 Right Pillar Molly</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/left_pillar_pos.png" />
+      <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/anubis/t/left_pillar_pos_zoom.png"/>
+        <br>Use wall corner, not the bricks on the left
+      </details>
+    </td>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/right_pillar_molly_aim.png" />
+      <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/anubis/t/right_pillar_molly_aim_zoom.png"/>
+        <br>Aim at horizontal trim above the first tooth corner. Make sure aim at the bottom darker portion of the horizontal.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><i>Soft jam into wall corner</i></td>
+    <td align="center"><i>Left Click Jump Throw</i></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <th colspan="2">🌟 B Site God Flash</th>
   </tr>
   <tr>
@@ -177,6 +263,11 @@
     </td>
     <td valign="top" width="50%">
       <img src="/anubis/t/b_site_flash_aim.png" />
+	  <details>
+        <summary><i>Zoom In</i></summary>
+        <img src="/anubis/t/b_site_flash_aim_zoom.png"/>
+        <br> Aim at middle of second semi circle from the left.
+      </details>
     </td>
   </tr>
   <tr>
