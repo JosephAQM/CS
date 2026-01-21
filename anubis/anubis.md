@@ -11,16 +11,16 @@
     <th colspan="2">💨 Left Pillar Smoke</th>
   </tr>
   <tr>
-    <td align="center"><b>Position</b><details>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td><img src="/anubis/t/left_pillar_pos.png" /><details>
 			<summary>
 				<i>Zoom</i>
 			</summary>
 			<img src="/anubis/t/left_pillar_pos_zoom.png"/>Use wall corner, not the bricks on the left
 		</details></td>
-    <td align="center"><b>Aim</b></td>
-  </tr>
-  <tr>
-    <td><img src="/anubis/t/left_pillar_pos.png" /></td>
     <td><img src="/anubis/t/left_pillar_aim.png" />
 		<details>
 			<summary>
@@ -36,11 +36,35 @@
   </tr>
 </table>
 
-
-
-
-## Apps Lurk
-
+<table>
+  <tr>
+    <th colspan="2">💨 Temple Smoke</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Position</b></td>
+    <td align="center"><b>Aim</b></td>
+  </tr>
+  <tr>
+    <td><img src="/anubis/t/temple_smoke_pos.png" /><details>
+			<summary>
+				<i>Zoom Out</i>
+			</summary>
+			<img src="/anubis/t/temple_smoke_pos_zoom_out.png"/>
+		</details></td>
+    <td><img src="/anubis/t/temple_smoke_aim.png" />
+		<details>
+			<summary>
+				<i>Zoom</i>
+			</summary>
+			<img src="/anubis/t/temple_smoke_aim_zoom.png"/>Aim at top left window corner.
+		</details>
+	</td>
+  </tr>
+  <tr>
+    <td align="center"><i>Align with corner of bricks</i></td>
+    <td align="center"><i>Left Click Throw</i></td>
+  </tr>
+</table>
 
 </details>
 
