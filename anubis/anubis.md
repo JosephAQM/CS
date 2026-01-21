@@ -58,7 +58,7 @@
 				<i>Zoom In</i>
 			</summary>
 			<img src="/anubis/t/temple_smoke_aim_zoom.png"/>
-			Aim at top left window corner.
+			<br>Aim at top left window corner.
 		</details>
 	</td>
   </tr>
@@ -84,13 +84,14 @@
 				<i>Zoom Out</i>
 			</summary>
 			<img src="/anubis/t/mid_smoke_pos_zoom_out.png"/>
+			<br>Stand against second pole from the left in T spawn.
 		</details></td>
     <td><img src="/anubis/t/mid_smoke_aim.png" /><details>
 			<summary>
 				<i>Zoom In</i>
 			</summary>
 			<img src="/anubis/t/mid_smoke_aim_zoom.png"/>
-			Aim at center of lamp thing.
+			<br>Aim at center of lamp thing.
 		</details></td>
 	</td>
   </tr>
