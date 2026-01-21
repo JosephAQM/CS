@@ -104,7 +104,7 @@
       <img src="/anubis/t/a_default_molly_aim.png" />
 	  <details>
         <summary><i>Zoom</i></summary>
-        <img src="/anubis/t/a_default_molly_aim_zoom.png"/>
+        <img src="/anubis/t/a_site_molly_aim_zoom.png"/>
         <br>Aim right of the top pot. Don't aim too close to pot.
       </details>
     </td>
