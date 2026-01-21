@@ -4,7 +4,7 @@
 
 ## Banana
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2">💨 CT Smoke (Incl. Boost)</th>
   </tr>
@@ -13,8 +13,8 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/ct_pos.png" /></td>
-    <td><img src="/inferno/t/ct_aim.png" /></td>
+    <td valign="top" width="50%"><img src="/inferno/t/ct_pos.png" /></td>
+    <td valign="top" width="50%"><img src="/inferno/t/ct_aim.png" /></td>
   </tr>
   <tr>
     <td align="center"><i>Stand centered with "GAS" text</i></td>
@@ -23,7 +23,7 @@
 </table>
 
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2">💨 Coffin Smoke</th>
   </tr>
@@ -32,9 +32,15 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/coffin_pos.png" /></td>
-    <td><img src="/inferno/t/coffin_aim.png" /> <details>
-<summary><i>Zoom</i></summary> <img src="/inferno/t/coffin_aim_zoom.png"/>Aim at bottom right of the crack.</details></td>
+    <td valign="top" width="50%"><img src="/inferno/t/coffin_pos.png" /></td>
+    <td valign="top" width="50%">
+      <img src="/inferno/t/coffin_aim.png" />
+      <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/inferno/t/coffin_aim_zoom.png"/><br>
+        Aim at bottom right of the crack.
+      </details>
+    </td>
   </tr>
   <tr>
     <td align="center"><i>Jam self into corner</i></td>
@@ -43,7 +49,7 @@
 </table>
 
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2">🔥 Oranges Molly</th>
   </tr>
@@ -52,9 +58,15 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/oranges_pos.png" /></td>
-    <td><img src="/inferno/t/oranges_aim.png" /> <details>
-<summary><i>Zoom</i></summary> <img src="/inferno/t/oranges_aim_zoom.png"/>Aim just right of the pipe.</details></td>
+    <td valign="top" width="50%"><img src="/inferno/t/oranges_pos.png" /></td>
+    <td valign="top" width="50%">
+      <img src="/inferno/t/oranges_aim.png" />
+      <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/inferno/t/oranges_aim_zoom.png"/><br>
+        Aim just right of the pipe.
+      </details>
+    </td>
   </tr>
   <tr>
     <td align="center"><i>Jam self into corner</i></td>
@@ -62,7 +74,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2">B Site God Flash (Team safe until Oranges)</th>
   </tr>
@@ -71,8 +83,8 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/ct_pos.png" /></td>
-    <td><img src="/inferno/t/b_site_flash1_aim.png"/></td>
+    <td valign="top" width="50%"><img src="/inferno/t/ct_pos.png" /></td>
+    <td valign="top" width="50%"><img src="/inferno/t/b_site_flash1_aim.png"/></td>
   </tr>
   <tr>
     <td align="center"><i>Stand centered with "GAS" text</i></td>
@@ -80,7 +92,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2">Top Banana HE from Barrels</th>
   </tr>
@@ -89,8 +101,8 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/top_banana_he_pos.png" /></td>
-    <td><img src="/inferno/t/top_banana_he_aim.png"/></td>
+    <td valign="top" width="50%"><img src="/inferno/t/top_banana_he_pos.png" /></td>
+    <td valign="top" width="50%"><img src="/inferno/t/top_banana_he_aim.png"/></td>
   </tr>
   <tr>
     <td align="center"><i>Jam self into corner</i></td>
@@ -98,7 +110,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2">Apps God Flash</th>
   </tr>
@@ -107,8 +119,8 @@
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/apps_god_flash_pos.png" /></td>
-    <td><img src="/inferno/t/apps_god_flash_aim.png"/></td>
+    <td valign="top" width="50%"><img src="/inferno/t/apps_god_flash_pos.png" /></td>
+    <td valign="top" width="50%"><img src="/inferno/t/apps_god_flash_aim.png"/></td>
   </tr>
   <tr>
     <td align="center"><i>Stand against pole (right of green exit sign)</i></td>

@@ -2,21 +2,25 @@
 Basic
 ***********************************
 
-<table>
+<table width="100%">
   <tr>
-    <th colspan="2">💨 CT Smoke (Incl. Boost)</th>
+    <th colspan="2">💨 Left Pillar Smoke</th>
   </tr>
   <tr>
     <td align="center"><b>Position</b></td>
     <td align="center"><b>Aim</b></td>
   </tr>
   <tr>
-    <td><img src="/inferno/t/ct_pos.png" /></td>
-    <td><img src="/inferno/t/ct_aim.png" /></td>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/left_pillar_smoke_pos.png" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="/anubis/t/left_pillar_smoke_aim.png" />
+    </td>
   </tr>
   <tr>
-    <td align="center"><i>Stand centered with "GAS" text</i></td>
-    <td align="center"><i>Left Click Throw</i></td>
+    <td align="center"><i>Soft jam into wall corner</i></td>
+    <td align="center"><i>Left Click Jump Throw</i></td>
   </tr>
 </table>
 
@@ -28,27 +32,8 @@ Basic
 Zoom
 ***********************************
 
-<table>
-  <tr>
-    <th colspan="2">💨 Coffin Smoke</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Position</b></td>
-    <td align="center"><b>Aim</b></td>
-  </tr>
-  <tr>
-    <td><img src="/inferno/t/coffin_pos.png" /></td>
-    <td><img src="/inferno/t/coffin_aim.png" />
-		<details>
-			<summary>
-				<i>Zoom</i>
-			</summary>
-			<img src="/inferno/t/coffin_aim_zoom.png"/>Aim at bottom right of the crack.
-		</details>
-	</td>
-  </tr>
-  <tr>
-    <td align="center"><i>Jam self into corner</i></td>
-    <td align="center"><i>Left Click Jump Throw</i></td>
-  </tr>
-</table>
+      <details>
+        <summary><i>Zoom</i></summary>
+        <img src="/anubis/t/left_pillar_aim_zoom.png"/>
+        <br>Aim between middle 2 semi circles.
+      </details>
