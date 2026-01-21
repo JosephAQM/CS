@@ -1,3 +1,9 @@
+<style>
+  td {
+    vertical-align: top;
+  }
+</style>
+
 # 🐪 Anubis
 <details>
 <summary>🔴 Terrorist Side</summary>
